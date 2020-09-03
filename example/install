@@ -1,0 +1,3 @@
+cd file
+snap ack intellij-idea-community_249.assert
+snap install intellij-idea-community_249.snap --classic
